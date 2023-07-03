@@ -60,7 +60,6 @@ body {
   background-color: #8d8d8d;
   box-shadow: 2px 4px 2px 1px rgb(82, 82, 82);
   transition: 0.2s;
-  position: absolute;
 }
 
 .btn:focus {
